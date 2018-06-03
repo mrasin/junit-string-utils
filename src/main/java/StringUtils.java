@@ -1,5 +1,3 @@
-package main;
-
 public class StringUtils {
 
 	public boolean isValidZipCode(String zipCode) {
